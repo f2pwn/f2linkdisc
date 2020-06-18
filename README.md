@@ -4,6 +4,8 @@ Who said we can't swap UMD™s with the PlayStation Vita™?
 
 This set of 4 applications and a PlayStation Portable™ CFW plugin allow for Link Disc in the PlayStation Vita™ for the DJMAX Portable™ game series.
 
+
+
 Requirements: 
 
 Your pspemu folder must be in your PlayStation Vita™'s ux0: partition. 
@@ -12,10 +14,7 @@ You must have a DJMAX Portable™ 2 CSO file with this exact name and path:
 
 ux0:pspemu/ISO/PRE_2.cso
 
-
-
 You must have DJMAX Portable, DJMAX Portable Black Square and DJMAX Portable™ Clazziquai Edition CSO files in this exact path, with this exact name and size in bytes:
-
 
 ux0:pspemu/ISO/PRE_1.cso 1.369.616.935 bytes
 
@@ -51,6 +50,7 @@ Edit /ux0:/pspemu/seplugins/game.txt, add this line at the bottom:
 
 How to use:
 
+
 DJMAX Portable 2™ Link Disc to DJ Max Portable™: 
 
 In your PlayStation Vita™ LiveArea™, click on the f2linkdisc: DMP2->DMP bubble.
@@ -66,6 +66,7 @@ Press the power button so your PlayStation Vita™ wakes from sleep.
 Press the circle button.
 
 
+
 To go back to DJMAX Portable™ 2, press the cross button on DJMAX Portable™'s Title screen.
 
 Press circle.
@@ -79,7 +80,9 @@ Press the power button so your PlayStation Vita™ wakes from sleep.
 Press the circle button.
 
 
+
 DJMAX Portable™ Black Square Link Disc to DJ Max Portable™ Clazziquai Edition:
+
 
 In your PS Vita™ LiveArea™, click on the f2linkdisc: DMPBS->DMPCE bubble.
 
@@ -112,7 +115,9 @@ Press your PlayStation Vita™ Select, R and L buttons simultaneously. Your Play
 Press the power button so your PlayStation Vita™ wakes from sleep.
 
 
+
 FAQs: 
+
 
 Q: My ISOs have a different size!
 
